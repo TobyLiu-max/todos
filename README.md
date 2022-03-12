@@ -1,7 +1,7 @@
 ##  Todo App（练习）
 
 ### 技术栈
-前后端分离
+前后端分离  
 client: React+Typescript  
 server: express+Typescript+mongodb
 
